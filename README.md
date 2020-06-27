@@ -1,4 +1,4 @@
-# buildWithConfig
+# Flutter Build With Config
 
 Build project with different configuration like  development, staging and production
 
